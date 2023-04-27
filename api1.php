@@ -1,5 +1,5 @@
 <?php
 
-echo "Past_day"
+echo json_encode("Past_day");
   
   ?>
